@@ -10,4 +10,5 @@ Data Science Packages
 5. seaborn
 6. scipy
 
+These are the DS packages which we are going to learn.
   Thank You
